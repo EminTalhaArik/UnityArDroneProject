@@ -1,0 +1,17 @@
+{"msg":"init","dagFile":"artifacts\\buildprogram\\tundra_buildprogram.dag","targets":[]}
+{"msg":"newNode","annotation":"CSProject build.gen.csproj","index":6}
+{"msg":"newNode","annotation":"WriteResponseFile artifacts/rsp/16678227308262555357.rsp","index":4}
+{"msg":"newNode","annotation":"Download and unpack artifacts/buildprogram/Stevedore/7za-win-x64_a333/.StevedoreVersion (+1 other)","index":1}
+{"msg":"noderesult","annotation":"WriteResponseFile artifacts/rsp/16678227308262555357.rsp","index":4,"exitcode":0}
+{"msg":"noderesult","annotation":"CSProject build.gen.csproj","index":6,"exitcode":0}
+{"msg":"newNode","annotation":"VisualStudioSolution build.gen.sln","index":7}
+{"msg":"noderesult","annotation":"VisualStudioSolution build.gen.sln","index":7,"exitcode":0}
+{"msg":"noderesult","annotation":"Download and unpack artifacts/buildprogram/Stevedore/7za-win-x64_a333/.StevedoreVersion (+1 other)","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"Download and unpack artifacts/buildprogram/Stevedore/roslyn-csc-win64_6e5a/.StevedoreVersion (+1 other)","index":3}
+{"msg":"newNode","annotation":"Download and unpack artifacts/buildprogram/Stevedore/referenceassemblies_v471_a0c3/.StevedoreVersion (+1 other)","index":2}
+{"msg":"noderesult","annotation":"Download and unpack artifacts/buildprogram/Stevedore/referenceassemblies_v471_a0c3/.StevedoreVersion (+1 other)","index":2,"exitcode":0}
+{"msg":"noderesult","annotation":"Download and unpack artifacts/buildprogram/Stevedore/roslyn-csc-win64_6e5a/.StevedoreVersion (+1 other)","index":3,"exitcode":0}
+{"msg":"newNode","annotation":"Csc artifacts/buildprogram/buildprogram.exe (+2 others)","index":5}
+{"msg":"noderesult","annotation":"Csc artifacts/buildprogram/buildprogram.exe (+2 others)","index":5,"exitcode":0}
+{"msg":"newNode","annotation":"build","index":8}
+{"msg":"newNode","annotation":"all_tundra_nodes","index":0}
